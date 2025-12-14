@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+     <class name="Login_Module.Login_Test"/>
+     <class name="Login_Module.Registration_Test"/>
+      
+      <class name="Product_Module.Search_Test"/>
+      <class name="Product_Module.Product_Details_Test"/>
+      
+      <class name="category_Module.Category_Brand_Test"/>
+      
+      <class name="Cart_Module.Cart_Complete_Test"/>
+      
+      <class name="Checkout_Module.Checkout_Payment_Test"/>
+      
+      <class name="contact_us_Module.Contact_Us_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
